@@ -23,7 +23,7 @@ This C++ program implements a simple product inventory management system with fi
 
 | Inserting a product  | Show all products | Search for a product | Delete a product |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Inserting%20a%20product.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Show%20all%20products.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Search%20for%20a%20product.jpg" width="150"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Delete%20a%20product.jpg" width="150"> |
+| <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Inserting%20a%20product.jpg" width="700"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Show%20all%20products.jpg" width="600"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Search%20for%20a%20product.jpg" width="400"> | <img src="https://github.com/Ahmed-Taha28/Product-registration-application/blob/main/images/Delete%20a%20product.jpg" width="400"> |
 
 ## Program Algorithm
 
